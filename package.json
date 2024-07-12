@@ -15,7 +15,7 @@
   },
   "name": "happiness-rate",
   "description": "Welcome to the Happiness Rate Project! This project uses a variety of data to calculate a happiness rate. 🚀",
-  "version": "1.4.4",
+  "version": "1.5565.4432",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
